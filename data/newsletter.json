@@ -1,9 +1,198 @@
 [
   {
+    "title": "April 2026 Newsletter",
+    "date": "2026-04-15",
+    "description": "April 2026 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2026/WVF-Newsletter-April-26.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-April-26-1-1.png"
+  },
+  {
+    "title": "March 2026 Newsletter",
+    "date": "2026-03-15",
+    "description": "March 2026 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2026/WVF-Newsletter-March-26V1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-March-2026.jpg"
+  },
+  {
+    "title": "February 2026 Newsletter",
+    "date": "2026-02-15",
+    "description": "February 2026 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2026/WVF-Newsletter-February-26V0.6.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-February-2026.jpg"
+  },
+  {
     "title": "January 2026 Newsletter",
     "date": "2026-01-15",
-    "description": "Highlights of January.",
-    "thumbnail": "../WVF CONTENT REPO/newsletters/Newsletter-2026/jan.webp",
-    "pdf": "C:\\Users\\kaavy\\Downloads\\wvf content repo\\newsletters\\Newsletter-2026\\WVF-Newsletter-March-26V1.pdf"
+    "description": "January 2026 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2026/WVF-Newsletter-January-26-1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Jan-2026.jpg"
+  },
+  {
+    "title": "December 2025 Newsletter",
+    "date": "2025-12-15",
+    "description": "December 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Dec-2025-v0.1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-December-2025.jpg"
+  },
+  {
+    "title": "November 2025 Newsletter",
+    "date": "2025-11-15",
+    "description": "November 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Nov-2025-V0.6.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-November-2025.jpg"
+  },
+  {
+    "title": "October 2025 Newsletter",
+    "date": "2025-10-15",
+    "description": "October 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-October-2025-V0.2.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-October-2025.jpg"
+  },
+  {
+    "title": "September 2025 Newsletter",
+    "date": "2025-09-15",
+    "description": "September 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-September-2025-V0.1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-September-2025.jpg"
+  },
+  {
+    "title": "August 2025 Newsletter",
+    "date": "2025-08-15",
+    "description": "August 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-August-2025.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-August-2025.jpg"
+  },
+  {
+    "title": "July 2025 Newsletter",
+    "date": "2025-07-15",
+    "description": "July 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-July-2025.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-July-2025.jpg"
+  },
+  {
+    "title": "June 2025 Newsletter",
+    "date": "2025-06-15",
+    "description": "June 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-June-2025-V0.5.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-June-2025.jpg"
+  },
+  {
+    "title": "May 2025 Newsletter",
+    "date": "2025-05-15",
+    "description": "May 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-May-2025-1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-May-2025.jpg"
+  },
+  {
+    "title": "April 2025 Newsletter",
+    "date": "2025-04-15",
+    "description": "April 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Apr-2025-V0.2.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Apr-2025.jpg"
+  },
+  {
+    "title": "March 2025 Newsletter",
+    "date": "2025-03-15",
+    "description": "March 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Mar-2025.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Mar-2025.jpg"
+  },
+  {
+    "title": "February 2025 Newsletter",
+    "date": "2025-02-15",
+    "description": "February 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Feb-2025-V0.5.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Feb-2025.jpg"
+  },
+  {
+    "title": "January 2025 Newsletter",
+    "date": "2025-01-15",
+    "description": "January 2025 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2025/WVF-Newsletter-Jan-2025.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Jan-2025.jpg"
+  },
+  {
+    "title": "December 2024 Newsletter",
+    "date": "2024-12-15",
+    "description": "December 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-Dec-2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-Dec-2024.jpg"
+  },
+  {
+    "title": "November 2024 Newsletter",
+    "date": "2024-11-15",
+    "description": "November 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-Nov-2024_.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-November-2024.jpeg"
+  },
+  {
+    "title": "October 2024 Newsletter",
+    "date": "2024-10-15",
+    "description": "October 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-Oct-2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-October-2024.jpg.jpeg"
+  },
+  {
+    "title": "September 2024 Newsletter",
+    "date": "2024-09-15",
+    "description": "September 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-September-2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-September-2024.jpg"
+  },
+  {
+    "title": "August 2024 Newsletter",
+    "date": "2024-08-15",
+    "description": "August 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF_Newsletter_August_2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF_Newsletter_August_2024.jpg"
+  },
+  {
+    "title": "July 2024 Newsletter",
+    "date": "2024-07-15",
+    "description": "July 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-July-2024_compressed.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-July-2024.jpg"
+  },
+  {
+    "title": "June 2024 Newsletter",
+    "date": "2024-06-15",
+    "description": "June 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-June-2024-2_C.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-June-2024.jpg"
+  },
+  {
+    "title": "May 2024 Newsletter",
+    "date": "2024-05-15",
+    "description": "May 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/WVF-Newsletter-May-2024-v3.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-May-2024.jpg"
+  },
+  {
+    "title": "April 2024 Newsletter",
+    "date": "2024-04-15",
+    "description": "April 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/Newsletter-Apr-2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-April-2024.jpg.jpeg"
+  },
+  {
+    "title": "March 2024 Newsletter",
+    "date": "2024-03-15",
+    "description": "March 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/Newsletter-Mar-2024.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-March-2024.jpeg"
+  },
+  {
+    "title": "February 2024 Newsletter",
+    "date": "2024-02-15",
+    "description": "February 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/Monthly-Newsletter-Feb-2024-V1.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-February-2024.jpg.jpeg"
+  },
+  {
+    "title": "January 2024 Newsletter",
+    "date": "2024-01-15",
+    "description": "January 2024 Edition of the Dare To Dream Newsletter by WinVinaya Foundation.",
+    "pdf": "https://bhkaavya.github.io/wvf-content-repo/newsletters/Newsletter-2024/Monthly-Newsletter-Jan-2024-V0.4.pdf",
+    "image": "https://winvinayafoundation.org/wp-content/uploads/2026/05/WVF-Newsletter-January-2024.jpg.jpeg"
   }
 ]
