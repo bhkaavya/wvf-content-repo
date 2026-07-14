@@ -1,23 +1,23 @@
 [
   {
     "image": "assets/testimonials/vineet-sharma.jpg",
-    "name": "Vineet Sharma",
-    "position": "All State Solutions Private Limited",
-    "quote": "Onboarding two talented WinVinaya candidates was a fantastic experience from interview to offer — the team's support throughout made all the difference. This partnership is just getting started.",
-    "disability": ""
+    "name": "Name",
+    "position": "Position",
+    "quote": "Quote",
+    "disability": "Disability"
   },
   {
     "image": "assets/testimonials/sumukha-rao.jpg",
-    "name": "Sumukha Rao",
-    "position": "CEO, TA3S",
-    "quote": "WinVinaya doesn't just do social work — they build genuine careers for differently-abled talent. People from Shiva's organisation continue to deliver at or above the level of any other hire.",
-    "disability": ""
+    "name": "Name",
+    "position": "Position",
+    "quote": "Quote",
+    "disability": "Disability"
   },
   {
     "image": "assets/testimonials/harikumar.jpg",
-    "name": "Harikumar",
-    "position": "QA-Automation Engineer, Caterpillar-Randstad",
-    "quote": "WinVinaya's constant support and encouragement helped me reach my goals. They trained me in Java, SQL and Soft Skills, and I went on to join Caterpillar as an Associate Engineer.",
-    "disability": "Visual Impairment"
+    "name": "Name",
+    "position": "Position",
+    "quote": "Quote",
+    "disability": "Disability"
   }
 ]
