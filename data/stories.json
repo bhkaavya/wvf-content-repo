@@ -1,23 +1,23 @@
 [
   {
     "image": "assets/testimonials/vineet-sharma.jpg",
-    "name": "Name",
+    "name": " Symonne Kotian",
     "position": "Position",
     "quote": "Quote",
-    "disability": "Disability"
+    "disability": "Cerebral Palsy"
   },
   {
     "image": "assets/testimonials/sumukha-rao.jpg",
-    "name": "Name",
+    "name": "Anoop",
     "position": "Position",
     "quote": "Quote",
-    "disability": "Disability"
+    "disability": "Deaf"
   },
   {
     "image": "assets/testimonials/harikumar.jpg",
-    "name": "Name",
+    "name": "Hemanth",
     "position": "Position",
     "quote": "Quote",
-    "disability": "Disability"
+    "disability": "Cerebral Palsy"
   }
 ]
